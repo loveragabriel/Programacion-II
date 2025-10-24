@@ -65,6 +65,8 @@ public class MainInventario {
         inv.filtrarProductosPorPrecio(1000.00, 3000.00).forEach(Producto::mostrarInfo);
 
         // mostrar categoria disponibles 
-        inv.mostrarCategoriasDisponibles();
+        inv.mostrarCategoriasDisponibles;
     }
+    
+    
 }
